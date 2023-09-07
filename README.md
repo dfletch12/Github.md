@@ -7,4 +7,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfletch12&layout=compact)](https://github.com/dfletch12)
 
 ## About Me
-My name is Dalton. I've been learning to code since fall of 2022. Im excited about my progress and how far I've already come in my journey. I'm looking forward to learning more skills, mastering the ones i have and meeting people to help me on my journey.
+My name is Dalton. I've been learning to code since fall of 2022. Im currenty a software engineer at Recovery Club America. Always happy to meet new people that can help me grow on my coding journey.
